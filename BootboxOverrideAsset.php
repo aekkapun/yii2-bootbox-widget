@@ -5,7 +5,7 @@
  * @author xjflyttp <xjflyttp@gmail.com>
  */
 
-namespace xj\bootbox;
+namespace aekkapun\bootbox;
 
 use \Yii;
 use yii\web\AssetBundle;
